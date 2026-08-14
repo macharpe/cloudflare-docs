@@ -1,0 +1,19 @@
+src/content/docs/cloudflare-one/access-controls/ai-controls/mcp-portals.mdx
+  s_5f6f5e4e60fcc9::t_587c61e7fb4864 275,277-281
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7224bf8570585d688c07259aaf2954eb18762227",
+  "prompts": {},
+  "sessions": {
+    "s_5f6f5e4e60fcc9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0004308baffe4k5s8eQywpQGbu",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Matthieu Charpentier <mcharpentier@cloudflare.com>"
+    }
+  }
+}
